@@ -1,0 +1,9 @@
+jax>=0.4.30
+fmmax>=1.7.1
+tmm
+optax
+numpy
+scipy
+pandas
+matplotlib
+jupyterlab
