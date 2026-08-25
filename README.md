@@ -8,7 +8,7 @@ gradients, enabling gradient-based inverse metrology and a quantitative
 identifiability analysis: **which mask parameters can a reflectance measurement
 actually recover, and with what confidence?**
 
-![Mask 3D shadowing](figures/hero_shadowing.png)
+![Mask 3D shadowing](hero_shadowing.png)
 
 ## Key results (preliminary — see status below)
 
